@@ -1,6 +1,6 @@
 #print a list in such a way that no word should be repeated
 
-a=['hi','hello','hi','hello','in','hi']
+a=['hi','hello','hi','hello','in']
 l=[]
 for word in a:
     if word not in l:
